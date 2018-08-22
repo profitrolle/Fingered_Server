@@ -1,0 +1,14 @@
+{
+    "tool_diameter":10,
+    "max_x_distance":1500,
+    "max_y_distance":1000,
+    "max_z_distance":100,
+    "milling_speed":750,
+    "fast_displacement_speed":1000,
+    "milling_z_speed":50,
+    "z_pass":1,
+    "safe_z":5,
+    "origin_coord":{"x_origin":0, "y_origin":0},    
+    "touch_plate_coord":{"x_touch":0, "y_touch":0},
+    "do_by_in_out":"inside"
+}
